@@ -106,7 +106,7 @@ lintOnSave: env === 'development',
 </pre>
 
 ## 构建检查
-##### webpack.config.base.js添加构建检查
+##### webpack.config.js添加构建检查
 <pre>
 {
   test: /\.(js|vue)$/,
